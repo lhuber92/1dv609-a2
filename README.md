@@ -11,10 +11,10 @@ Other commands that may be of use:
 - npm run lint:fix
 
 Repo:
-https://github.com/lhuber92/1dv609-a2
+- https://github.com/lhuber92/1dv609-a2
 
 Forked Materialize CSS repo (included in package JSON, just run npm i):
-https://github.com/lhuber92/materialize
+- https://github.com/lhuber92/materialize
 
 Boilerplate code taken from:
-https://gitlab.lnu.se/1dv025/content/exercises/module-b/exercise-hello-world-again
+- https://gitlab.lnu.se/1dv025/content/exercises/module-b/exercise-hello-world-again
